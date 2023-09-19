@@ -67,3 +67,5 @@ def pascal(n):
 
 pascal(2)
 pascal(5)
+
+#i used the solution code for a lot of this along with other videos on youtube to help me understand these functions 
